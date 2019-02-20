@@ -1,4 +1,7 @@
 # hello-world
 starting with github
-Hi Peeps, just getting my hands dirty .....
-Wish me luck !
+
+Hi Peeps, getting my hands dirty
+Wish me Luck !!
+
+Already screwed once :)
